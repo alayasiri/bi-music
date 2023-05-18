@@ -23,6 +23,26 @@ Running analysis on track features of popular songs on a music streaming platfor
 
 I then loaded the CSV files into MySQL and was able access the database through Tableau to conduct all the analysis. I used Tableau to create visuals that offer insights into the data. Tableau was used to offer insights into relationships between track features, understanding the track features of popular tracks, and analyzing patterns found in the track features of popular music. All of these visualizations were used in creating the story board.</a>
 
+<h2>Data Visualization:</h2>
+
+<p align="center">
+Correlation between Duration and Popularity: <br/>
+<img src="https://i.imgur.com/pUYeQGl.png" height="80%" width="80%" alt="Tableau"/>
+<br />
+<br />
+Number of Artists and Avg.Popularity by Genre:  <br/>
+<img src="https://i.imgur.com/qmZnBlk.png" height="80%" width="80%" alt="Tableau"/>
+<br />
+<br />
+Track Features of the '23 Coachella Artists:  <br/>
+<img src="https://i.imgur.com/9YQSqqJ.png" height="80%" width="80%" alt="Tableau"/>
+<br />
+<br />
+Chart-Topping Artist's Most and Least Popular Songs' Features:  <br/>
+<img src="https://i.imgur.com/a2guNIK.png" height="80%" width="80%" alt="Tableau"/>
+<br />
+<br />
+
 <h2>Tableau Storyboard:</h2>
 
 <a> You can [downlad the Tableau storyboard here](https://github.com/alayasiri/bi-music/blob/main/spotify%20tableau.twbx). </a>
