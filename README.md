@@ -12,7 +12,6 @@ Running analysis on track features of popular songs on a music streaming platfor
 
 - <b>MySQL</b> 
 - <b>Python</b>
-- <b>SQL</b> 
 - <b>Excel</b> 
 - <b>Tableau and Tableau Prep</b>
 
